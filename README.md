@@ -11,4 +11,5 @@ This project uses **Machine Learning** to perform predictive analysis on a datas
 ## Installation  
 Install dependencies using:  
 ```bash
-pip install pandas numpy scikit-learn matplotlib
+##output
+![Image](https://github.com/user-attachments/assets/e4ad46e1-794c-4ab8-92b7-3d859d22add1)
